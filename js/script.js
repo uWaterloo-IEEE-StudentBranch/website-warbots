@@ -6,4 +6,16 @@ function getpage(page)
 	{
 		
 	}
+	else
+	{
+		
+	}
+}
+
+function hashChange_fetchPage()
+{
+}
+
+function noHashChange_fetchPage()
+{
 }
